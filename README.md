@@ -61,17 +61,20 @@ These features illustrate how farmers could interact with a digital advisory sys
 
 The Velir AI prototype is built using the following technologies.
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-
-### Backend
-- Python
-- Flask
-
-### Data Storage
-- SQLite (local database)
+### Frontend: 
+Streamlit
+### Backend: 
+Python
+### AI Models: 
+Amazon Nova Pro, Nova Sonic
+### AI Platform: 
+Amazon Bedrock Agent Core, Bedrock Knowledge Bases (RAG)
+### Cloud Storage: 
+Amazon S3, DynamoDB
+### Monitoring: 
+Amazon CloudWatch
+### Development: 
+Git / GitHub
 
 ---
 
