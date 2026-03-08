@@ -1,6 +1,8 @@
 # Velir AI – Digital Farmer Officer
 
-Velir AI is a cloud-based agricultural advisory prototype designed to assist farmers with crop guidance, alerts, and farming insights through a simple digital interface.
+Velir AI aims to provide farmers with an accessible digital advisory system that simplifies agricultural decision-making through technology.
+
+Velir AI is a digital agricultural advisory prototype designed to assist farmers with crop guidance, alerts, and farming insights through a simple interface.
 
 This prototype demonstrates how digital systems can support farmers by providing structured access to agricultural information and advisory support.
 
@@ -28,9 +30,9 @@ This project proposes a prototype system that acts as a digital agricultural off
 
 ## Proposed Solution
 
-Velir AI provides a digital interface where farmers can interact with an advisory system to receive guidance related to agriculture.
+The system demonstrates how digital platforms can assist farmers by providing accessible agricultural advisory support through an interactive interface.
 
-The prototype demonstrates how farmers could:
+Farmers can use the platform to:
 
 - Ask agriculture-related questions  
 - Upload crop images for analysis  
@@ -43,7 +45,7 @@ The goal is to show how cloud-based systems can assist in delivering agricultura
 
 ## Features
 
-The prototype currently demonstrates the following capabilities:
+The Velir AI prototype includes the following core capabilities:
 
 - Farmer dashboard interface  
 - Query submission interface for agricultural questions  
@@ -55,23 +57,21 @@ These features illustrate how farmers could interact with a digital advisory sys
 
 ---
 
-## System Architecture
+## Technology Stack
 
-The prototype follows a simple web-based architecture.
+The Velir AI prototype is built using the following technologies.
 
-Frontend
+### Frontend
 - HTML
 - CSS
 - JavaScript
 
-Backend
+### Backend
 - Python
 - Flask
 
-Data Storage
+### Data Storage
 - SQLite (local database)
-
-The architecture demonstrates how a cloud-based agricultural advisory system can store farmer interactions and support scalable advisory services.
 
 ---
 
@@ -147,6 +147,6 @@ Team Members:
 
 ## Prototype Status
 
-This repository represents a working prototype demonstrating the concept of a digital agricultural advisory interface.
+This repository contains a functional prototype demonstrating the concept of a digital agricultural advisory platform for farmers.
 
 Some advanced features and integrations may be expanded in future versions.
