@@ -89,23 +89,25 @@ This flow illustrates the basic interaction between the farmer and the advisory 
 
 ## Repository Structure
 
+```
 velir-ai/
-
-README.md
-app.py
-architecture_diagram.png
-process_flow.png
-
-screenshots/
-dashboard.png
-query_response.png
-
-docs/
-design.md
-requirements.md
-
-assets/
-prototype_demo.mp4
+│
+├── README.md
+├── app.py
+├── architecture_diagram.png
+├── process_flow.png
+│
+├── screenshots/
+│   ├── dashboard.png
+│   └── query_response.png
+│
+├── docs/
+│   ├── design.md
+│   └── requirements.md
+│
+└── assets/
+    └── prototype_demo.mp4
+```
 
 ---
 
