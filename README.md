@@ -102,11 +102,8 @@ velir-ai/
 │   └── query_response.png
 │
 ├── docs/
-│   ├── design.md
-│   └── requirements.md
-│
-└── assets/
-    └── prototype_demo.mp4
+    ├── design.md
+    └── requirements.md
 ```
 
 ---
